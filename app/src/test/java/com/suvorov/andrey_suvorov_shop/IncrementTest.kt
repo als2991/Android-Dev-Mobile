@@ -10,4 +10,7 @@ class IncrementTest {
         i++
     }
 
+    fun incrementTest3() {
+        
+    }
 }
